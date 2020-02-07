@@ -1,4 +1,4 @@
-### Concepts of Continuous Integration & Delivery (CI/CD)
+### Concepts of Continuous Integration (CI)
 
 + CI/CD is a way of developing software in which you’re able to release updates at any time in a sustainable way. When changing code is routine, development cycles are more frequent, meaningful and faster.
 
