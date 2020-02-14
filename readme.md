@@ -83,3 +83,10 @@
   + Local repository
   + Central repository
   + Remote repository
+
+### References
+
++ [Guru99 - What is Jenkins?](https://www.guru99.com/jenkin-continuous-integration.html)
++ [Semaphoreci - CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
++ [Opensource.com - Building CI/CD pipelines with Jenkins](https://opensource.com/article/19/9/intro-building-cicd-pipelines-jenkins)
++ [CloudBees.com - Main differences between Freestyle - Scripted Pipeline Job - Declarative Pipeline Job](https://support.cloudbees.com/hc/en-us/articles/115003908372-Main-differences-between-Freestyle-Scripted-Pipeline-Job-Declarative-Pipeline-Job)
